@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rose and I'm a software engineer from Rhode Island!</h2>
+<h2 align="center">Hi 👋! My name is Rose and I'm from Rhode Island!</h2>
 
 ###
 
