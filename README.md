@@ -1,14 +1,13 @@
 <h1>Hi 👋 My name is Rose</h1> 
 <h2>I'm a Developer</h2> 
 
-<p>I have been on my coding journey for over two years now. Currently, I am enrolled in a full-stack engineering bootcamp at <a href="https://www.nucamp.co/"><b>Nucamp</b></a>
   <ul>
     <li>🌍  I'm based in Rhode Island</li>
     <li>🚀  I'm currently working on productivity app called <a href='http://github.com/RNedder/todo-app'><b>todo-list</b></a></li>
-    <li>🧠  I'm currently learning React</li>
+    <li>🎴  Check out my collaborative project: <a href="https://mtg-random-commander.web.app"><b>MTGRandomizer</b></a> - A <b>Magic: The Gathering</b> Commander Generator!</li>
+    <li>🧠  I'm currently enrolled in a Full-Stack Engineering Boot Camp at <a href="https://www.nucamp.co/"><b>Nucamp</b></li>
     <li>⚡  My favorite languages to code in are JavaScript and Python</li>
   </ul>
-</p>
 
 <div align="left">
   <hr>
