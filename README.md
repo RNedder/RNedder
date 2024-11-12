@@ -1,5 +1,4 @@
 <h1>Hi 👋 My name is Rose</h1> 
-<h2>I'm a Developer</h2> 
 
   <ul>
     <li>🌍  I'm based in Rhode Island</li>
