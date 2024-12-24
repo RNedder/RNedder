@@ -11,7 +11,7 @@
 <div align="left">
   <hr>
   <h3>Top Repositories</h3> 
-  <a href="https://github.com/RNedder/todo-app" align="left" 
+  <a href="https://github.com/RNedder/todo-app" align="left" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RNedder&repo=todo-app&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/RNedder/MTGRandomizer" align="left">
