@@ -53,9 +53,6 @@
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="flask logo" />
 
-  <a href="https://github.com/RNedder" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNedder&langs_count=10&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
 </div>
 
 
@@ -64,6 +61,7 @@
   <h3>My Github Stats</h3>
     <a href="http://www.github.com/RNedder"><img src="https://github-readme-stats.vercel.app/api?username=RNedder&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="RNedder's GitHub stats" /></a>
     <a href="http://www.github.com/RNedder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RNedder&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  <a href="https://www.github.com/RNedder"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RNedder" /></a>
 </div>
     
 <div align="left">
